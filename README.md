@@ -2,7 +2,7 @@
 
 ## 👋 Salut, je suis Enzo VIGUIER! 
 
-Actuellement étudiant en Master de Génie Logiciel à la Faculté des Sciences de Montpellier, j'ai précédemment obtenu un DUT Informatique et une Licence Professionnelle en PSGI (Progiciels et systèmes de Gestion Intégrés) à l'IUT Informatique. Je suis toujours ouvert à explorer de nouvelles technologies et à collaborer sur des projets innovants.
+Actuellement étudiant en Master de Génie Logiciel à la Faculté des Sciences de Montpellier, j'ai précédemment obtenu un DUT Informatique et une Licence Professionnelle en PSGI (Progiciels et systèmes de Gestion Intégrés) à l'IUT de Montpellier. Je suis toujours ouvert à explorer de nouvelles technologies et à collaborer sur des projets innovants.
 
 
 ## 🚀 Compétences Techniques
